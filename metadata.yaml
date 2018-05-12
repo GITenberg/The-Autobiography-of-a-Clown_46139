@@ -1,0 +1,29 @@
+_repo: The-Autobiography-of-a-Clown_46139
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46139-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marcosson, Isaac Frederick
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '7988'
+    url: http://www.gutenberg.org/2009/agents/7988
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Frederick_Marcosson
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46139'
+  lccn: '10008406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clowns'
+- !lcsh 'Turnour, Jules, -1931'
+- !lcc 'GV'
+title: The Autobiography of a Clown
+url: http://www.gutenberg.org/ebooks/46139
